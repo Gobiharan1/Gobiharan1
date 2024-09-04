@@ -1,4 +1,5 @@
-![Raytracing a Black Hole](https://github.com/user-attachments/assets/a844df4e-15a4-4484-a2ec-b190c9550eda)
+!![Vijayan Gobiharan](https://github.com/user-attachments/assets/b4eb02ef-bb3a-43c9-a619-c05b8b7e77bd)
+
 
 )
 
