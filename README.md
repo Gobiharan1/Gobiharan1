@@ -1,6 +1,7 @@
-![My Profile Picture](!(https://github.com/user-attachments/assets/5331959a-00d8-4820-8cf4-a734e901bdf8)
+![My Profile Picture](![Laptop wallpaper ideas](https://github.com/user-attachments/assets/7b261877-00b2-4ba6-ba84-c182c26ea0e7)
 )
 )
+
 
 ### Hey there iam gobi! 👋
 
