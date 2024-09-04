@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Gobiharan, and I’m passionate about explorin
 
 # 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gobiharan1&show_icons=true&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gobiharan1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gobiharan1&theme=dark&hide_border=false)
 
 
 
