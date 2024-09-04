@@ -1,5 +1,5 @@
-![download](https://github.com/user-attachments/assets/9062f483-c0fd-4644-8b81-e181092f6e96)
-)
+![Raytracing a Black Hole](https://github.com/user-attachments/assets/a844df4e-15a4-4484-a2ec-b190c9550eda)
+
 )
 
 )
