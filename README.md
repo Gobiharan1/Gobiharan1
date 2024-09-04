@@ -1,10 +1,6 @@
 !![Vijayan Gobiharan](https://github.com/user-attachments/assets/b4eb02ef-bb3a-43c9-a619-c05b8b7e77bd)
 
 
-)
-
-)
-
 
 ### Hey there iam gobi! 👋
 
