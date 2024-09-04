@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm Gobiharan, and I’m passionate about explorin
 👯 Open to collaboration: If you're working on exciting tech projects or research, let's team up and create something amazing! </br></br>
 💬 Ask me about: Software development, astronomy, and how to fuse creativity with technology. </br></br>
 ⚡ Fun fact: I'm an avid stargazer who loves capturing the beauty of the night sky through photography. </br></br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gobiharan1)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gobiharan1&show_icons=true&theme=radical)
