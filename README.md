@@ -1,6 +1,5 @@
-![My Profile Picture](![Laptop wallpaper ideas](![Laptop wallpaper ideas](https://github.com/user-attachments/assets/169fa086-86a1-4e42-9ccd-d7bedf1e1a39)
-)
-)
+!(https://github.com/user-attachments/assets/169fa086-86a1-4e42-9ccd-d7bedf1e1a39)
+
 )
 
 
