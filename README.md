@@ -1,5 +1,5 @@
-![My Profile Picture](![ransomizer com filesVpt9j](https://github.com/user-attachments/assets/4cf73e38-b7ff-4d43-84d0-beeb8145c5d8)
-)
+(![ransomizer com filesVpt9j](https://github.com/user-attachments/assets/4cf73e38-b7ff-4d43-84d0-beeb8145c5d8)
+
 
 ### Hey there iam gobi! 👋
 
