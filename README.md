@@ -1,4 +1,5 @@
-![ransomizer com filesVpt9j](https://github.com/user-attachments/assets/4cf73e38-b7ff-4d43-84d0-beeb8145c5d8)
+![ransomizer com filesVpt9j](![download](https://github.com/user-attachments/assets/28149b80-6ba0-4f83-bcf1-41c6965b2b5a)
+)
 
 ### Hey there iam gobi! 👋
 
