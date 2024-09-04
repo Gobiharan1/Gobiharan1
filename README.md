@@ -1,4 +1,5 @@
-!(https://github.com/user-attachments/assets/169fa086-86a1-4e42-9ccd-d7bedf1e1a39)
+!(![Laptop wallpaper ideas](https://github.com/user-attachments/assets/81fbda34-d226-4e58-8e0a-1ef00b5db953)
+)
 
 )
 
