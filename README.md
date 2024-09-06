@@ -11,7 +11,7 @@
 
 # Hey there iam gobi! 👋
 
-Welcome to my GitHub profile! I'm Gobiharan, and I’m passionate about exploring the endless possibilities in the world of technology and beyond.
+Welcome to my GitHub profile! I'm Gobiharan, and undergraduate software engineer.
 <br>
 ✈️ Here is my [portfolio](https://gobiharan1.github.io/Myself/)
 <br>
