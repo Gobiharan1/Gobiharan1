@@ -11,7 +11,7 @@
 
 # Hey there iam gobi! 👋
 
-Welcome to my GitHub profile! I'm Gobiharan, and undergraduate software engineer.
+Welcome to my GitHub profile! I'm Gobiharan, undergraduate software engineer.
 <br>
 ✈️ Here is my [portfolio](https://gobiharan1.github.io/Myself/)
 <br>
