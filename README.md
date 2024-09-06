@@ -12,7 +12,7 @@
 # Hey there iam gobi! 👋
 
 Welcome to my GitHub profile! I'm Gobiharan, and I’m passionate about exploring the endless possibilities in the world of technology and beyond.
-✈️ Here is my [portfolio]([gobiharan1.github.io/Myself/](https://gobiharan1.github.io/Myself/))
+✈️ Here is my [portfolio](https://gobiharan1.github.io/Myself/)
 🔭 Currently working on: Building innovative solutions in software engineering and exploring the exciting world of Astronomy. </br></br>
 👯 Open to collaboration: If you're working on exciting tech projects or research, let's team up and create something amazing! </br></br>
 💬 Ask me about: Software development, astronomy, and how to fuse creativity with technology. </br></br>
