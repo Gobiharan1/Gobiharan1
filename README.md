@@ -35,16 +35,3 @@ Welcome to my GitHub profile! I'm Gobiharan, undergraduate software engineer.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gobiharan1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gobiharan1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gobiharan1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
