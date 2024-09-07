@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm Gobiharan, undergraduate software engineer.
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gobiharan1&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ...
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
