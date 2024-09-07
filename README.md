@@ -13,8 +13,8 @@
 
 Welcome to my GitHub profile! I'm Gobiharan, undergraduate software engineer.
 <br><br>
-✈️ Here is my [portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:gobiharan1.github.io/Myself/)
-<br><br>
+✈️ Here is my ![HTML5](https://img.shields.io/website-up-down-green-red/http/monip.org.svggobiharan1.github.io/Myself/)
+<br><br>           
 🔭 Currently working on: Building innovative solutions in software engineering and exploring the exciting world of Astronomy. </br>
 👯 Open to collaboration: If you're working on exciting tech projects or research, let's team up and create something amazing! </br>
 💬 Ask me about: Software development, astronomy, and how to fuse creativity with technology. </br>
