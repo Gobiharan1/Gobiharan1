@@ -1,4 +1,4 @@
-<img src="[https://github.com/user-attachments/assets/2b6202c4-4d6e-4141-bef7-1437b8b7edac](https://pin.it/5pe9jjfnV)](https://www.pinterest.com/pin/330873903857692841/)](https://wallpapers.com/wallpapers/among-us-aesthetic-pink-imposter-oehhqhw9uok79sk3.html)" alt="image" height="1200px" width="1000px" />
+<img src="https://w0.peakpx.com/wallpaper/687/462/HD-wallpaper-among-us-aesthetic-pink-imposter.jpg" alt="image" height="1200px" width="1000px" />
 
 
 
