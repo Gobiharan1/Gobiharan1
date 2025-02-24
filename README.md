@@ -1,11 +1,4 @@
-<img src="https://wallpapers.com/wallpapers/among-us-aesthetic-pink-imposter-oehhqhw9uok79sk3.html" alt="image" height="1200px" width="1000px" />
-
-
-
-
-
-
-
+<img src="https://w0.peakpx.com/wallpaper/687/462/HD-wallpaper-among-us-aesthetic-pink-imposter.jpg" alt="Among Us Aesthetic Pink Imposter" height="1200px" width="1000px" />
 
 
 
