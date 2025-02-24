@@ -1,6 +1,3 @@
-<img src="https://wallpapers.com/wallpapers/among-us-aesthetic-pink-imposter-oehhqhw9uok79sk3.html" alt="Among Us Aesthetic Pink Imposter" height="1200px" width="1000px" />
-
-
 
 # Hey there iam gobi! 👋
 
