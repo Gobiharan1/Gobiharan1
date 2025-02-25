@@ -1,4 +1,4 @@
-<img src="90f98a29-cc63-4b58-a0df-b688b29f03ff.jpg" alt="Git hub banner" width="1200px" height="400px"/>
+<img src="spidy.jpg" alt="Git hub banner" width="1200px" height="400px"/>
 
 
 # 💫 About Me:
