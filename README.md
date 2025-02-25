@@ -1,4 +1,3 @@
-<img src="205b6bf2-2da0-4adc-90cc-8788919c88e7.jpg" alt="Git hub banner" width="100%" height="400px"/>
 
 
 # 💫 About Me:
