@@ -18,7 +18,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![](https://github-contributor-stats.vercel.app/api?username=Gobiharan1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
