@@ -1,5 +1,7 @@
-# 💫 About Me:
 <img src="90f98a29-cc63-4b58-a0df-b688b29f03ff.png" alt="Git hub banner" width="100%"">
+
+
+# 💫 About Me:
 🔭 Currently working on: Building innovative solutions in software engineering and exploring the vast wonders of astronomy. I’m a Trainee Fullstack Developer at Nuwali Digital Solutions, diving into code, while also working as a UI/UX designer, creating poster designs, and managing social media at Core Z—a company I co-founded with three other dreamers!<br><br>🌱 Currently learning: Options trading (wish me luck!) and upgrading my backend development skills. Long-term goal? Mastering Python and launching myself into the wild world of AI.<br><br>👯 Open to collaboration: If you’re tinkering with cool tech projects or research, let’s join forces and build something epic!<br><br>💬 Ask me about: Software development, astronomy, how to blend creativity with tech, or honestly, anything—try me, I dare you to make it weird!<br><br>⚡ Fun fact: I’m a starry-eyed stargazer who’s obsessed with chasing constellations and snapping jaw-dropping shots of the cosmos—because who needs sleep when the universe is your canvas?
 
 
